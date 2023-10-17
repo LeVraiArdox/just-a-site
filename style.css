@@ -8,10 +8,6 @@ body{
 }
 
 nav{
-    img{
-        max-width: 40px;
-        left: 40px;
-    }
     backdrop-filter: blur(20px);
 }
 
